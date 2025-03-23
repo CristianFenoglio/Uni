@@ -1,0 +1,6 @@
+/Users/cristian/Desktop/PCS/esercitazione1803/es1803/build/CMakeFiles/rational.dir
+/Users/cristian/Desktop/PCS/esercitazione1803/es1803/build/CMakeFiles/stack.dir
+/Users/cristian/Desktop/PCS/esercitazione1803/es1803/build/CMakeFiles/stack_template.dir
+/Users/cristian/Desktop/PCS/esercitazione1803/es1803/build/CMakeFiles/stack_template_better.dir
+/Users/cristian/Desktop/PCS/esercitazione1803/es1803/build/CMakeFiles/edit_cache.dir
+/Users/cristian/Desktop/PCS/esercitazione1803/es1803/build/CMakeFiles/rebuild_cache.dir
