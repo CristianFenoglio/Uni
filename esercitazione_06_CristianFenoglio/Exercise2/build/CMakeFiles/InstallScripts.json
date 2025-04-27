@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/cristian/Desktop/PCS/esercitazione_06_CristianFenoglio/Exercise2/build/cmake_install.cmake",
+		"/Users/cristian/Desktop/PCS/esercitazione_06_CristianFenoglio/Exercise2/build/src/cmake_install.cmake",
+		"/Users/cristian/Desktop/PCS/esercitazione_06_CristianFenoglio/Exercise2/build/src_test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

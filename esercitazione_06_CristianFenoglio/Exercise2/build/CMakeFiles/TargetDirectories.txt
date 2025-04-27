@@ -1,0 +1,8 @@
+/Users/cristian/Desktop/PCS/esercitazione_06_CristianFenoglio/Exercise2/build/CMakeFiles/Sorting2.dir
+/Users/cristian/Desktop/PCS/esercitazione_06_CristianFenoglio/Exercise2/build/CMakeFiles/Sorting2_TEST.dir
+/Users/cristian/Desktop/PCS/esercitazione_06_CristianFenoglio/Exercise2/build/CMakeFiles/edit_cache.dir
+/Users/cristian/Desktop/PCS/esercitazione_06_CristianFenoglio/Exercise2/build/CMakeFiles/rebuild_cache.dir
+/Users/cristian/Desktop/PCS/esercitazione_06_CristianFenoglio/Exercise2/build/src/CMakeFiles/edit_cache.dir
+/Users/cristian/Desktop/PCS/esercitazione_06_CristianFenoglio/Exercise2/build/src/CMakeFiles/rebuild_cache.dir
+/Users/cristian/Desktop/PCS/esercitazione_06_CristianFenoglio/Exercise2/build/src_test/CMakeFiles/edit_cache.dir
+/Users/cristian/Desktop/PCS/esercitazione_06_CristianFenoglio/Exercise2/build/src_test/CMakeFiles/rebuild_cache.dir
