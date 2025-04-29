@@ -1,0 +1,7 @@
+/Users/cristian/Desktop/PCS/esercitazione_05_CristianFenoglio/Exercise2/build/CMakeFiles/PolygonalMesh.dir
+/Users/cristian/Desktop/PCS/esercitazione_05_CristianFenoglio/Exercise2/build/CMakeFiles/edit_cache.dir
+/Users/cristian/Desktop/PCS/esercitazione_05_CristianFenoglio/Exercise2/build/CMakeFiles/rebuild_cache.dir
+/Users/cristian/Desktop/PCS/esercitazione_05_CristianFenoglio/Exercise2/build/src/CMakeFiles/edit_cache.dir
+/Users/cristian/Desktop/PCS/esercitazione_05_CristianFenoglio/Exercise2/build/src/CMakeFiles/rebuild_cache.dir
+/Users/cristian/Desktop/PCS/esercitazione_05_CristianFenoglio/Exercise2/build/ExportParaview/CMakeFiles/edit_cache.dir
+/Users/cristian/Desktop/PCS/esercitazione_05_CristianFenoglio/Exercise2/build/ExportParaview/CMakeFiles/rebuild_cache.dir
